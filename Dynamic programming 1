@@ -68,4 +68,3 @@ public class Main {
         return new long[]{fmax, smax};
     }
 }
-give me program in c++
